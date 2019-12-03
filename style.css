@@ -1,0 +1,33 @@
+/*Style Sheet(CSS) for main web pages*/
+body {
+    background-color: azure; 
+    margin: 0;
+    font-family: verdana;
+}
+header {
+    height: 5em;
+    background-color: #000;
+    margin: 0 auto;
+}
+header h1 {
+    color:#fff;
+    text-align: center;
+    line-height: 2em;
+}
+nav {
+    height: 2em;
+    background-color: #444;
+}
+main {
+    width: 90%;
+    background-color: white;
+    max-width: 1900px;
+    margin: 0 auto;
+}
+section {
+    color: #606060;
+}
+footer {
+    height: 2em;
+    background-color: #000;
+}
